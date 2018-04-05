@@ -9,8 +9,11 @@ We could add
 
 We could also add
 1. a numbered list
-        a. A sublist
-        b. with 2 items
+
+    a. A sublist
+
+    b. with 2 items
+
 2. with 2 items
 
 That's enough lists.
