@@ -10,7 +10,9 @@ We could also add
 2. with 2 items
 
 That's enough lists.
-Let's add an image:![test logo](testlogo.png)
+Let's add an image:
+
+![test logo](testlogo.png)
 ### Block quotes
 This is not something I use very often:
 > But it is useful
