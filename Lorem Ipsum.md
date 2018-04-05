@@ -15,6 +15,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
 Praesent mattis magna ac nunc maximus porta. Nam porta hendrerit elit in iaculis. Duis convallis quam a faucibus porta. Morbi nec nisl iaculis ipsum porta dictum. Nam eu pellentesque risus, in ~~ullamcorper~~ metus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
 ## Level 2
-Lets create a link to [Lorem Ipsum][f93f63bd]
+Lets create a link to [Back to top][f93f63bd]
 
-  [f93f63bd]: #lorem-ipsum "Lorem Ipsum"
+  [f93f63bd]: #lorem-ipsum "Back to top"
