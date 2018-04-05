@@ -10,6 +10,4 @@ We could also add
 2. with 2 items
 
 That's enough lists.
-Let's add an image:![test logo](/images/2018/04/testlogo.png)
-
- 
+Let's add an image:![test logo](testlogo.png)
