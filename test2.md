@@ -4,6 +4,8 @@ More stuff
 We could add
 + a bulleted list
 + with 2 items
+  * And two
+  * sub items
 
 We could also add
 1. a numbered list
