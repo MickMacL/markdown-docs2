@@ -1,5 +1,23 @@
+---
+author:
+  - Author One
+  - Author Two
+source: Source
+publisher: Publisher
+permissions: Permissions
+audience: Developers
+category: Category
+keyword:
+  - Keyword1
+  - Keyword2
+resourceid:
+  - Resourceid1
+  - Resourceid2
+workflow: review
+---
 # Hey There !
 More stuff
+THis doc was created on [%audience]
 ## Lists
 We could add
 + a bulleted list
